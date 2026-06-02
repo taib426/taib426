@@ -1,3 +1,11 @@
+---
+
+## 📊 GitHub Stats
+
+![Taib's GitHub stats](https://github-readme-stats.vercel.app/api?username=taib426&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taib426&layout=compact&theme=tokyonight)
+
 ![Banner](https://github.com/taib426/taib426/blob/main/banner.png)
 # Hi, I'm Taib 👋
 
