@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Taib 👋
 
-<!--
-**taib426/taib426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Undergraduate Research Assistant at Tokyo International University
+- Interested in AI, Automation, and Research
+- Learning GitHub, Python, and n8n workflows
 
-Here are some ideas to get you started:
+## Skills
+- Git & GitHub
+- n8n Automation
+- Research & Academic Writing
+- Workflow Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build professional automation projects
+- Improve programming skills
+- Create research-based projects
+
+## Connect With Me
+- GitHub: https://github.com/taib426
+- linkdein: https://www.linkedin.com/in/md-abu-taib-510877267/
