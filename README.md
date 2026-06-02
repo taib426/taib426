@@ -1,3 +1,4 @@
+![Banner](https://github.com/taib426/taib426/blob/main/banner.png)
 # Hi, I'm Taib 👋
 
 ## About Me
